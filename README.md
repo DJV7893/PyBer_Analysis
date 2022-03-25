@@ -18,11 +18,12 @@
   Consequently, on the other end of the density spectrum, Rural drivers had a tremendous advantage as it relates to average fares. Rural total rides and total drivers were both the smallest by a significant margin as compared to the other two city types. The lowest supply of total drivers enabled them to economically produce the highest average fare per driver.
 
 Pyber Summary DataFrame
+
 <img width="598" alt="PyBer_Summary_DataFrame" src="https://user-images.githubusercontent.com/99817571/160156024-ae019661-bf28-4b6f-b29a-9ea90b3ef059.png">
 
   From the Total Fare by City Type Graph, which charts total fares by city type for each week from January to May of 2019, we can observe a similar pattern as seen in our Pyber Summary DataFrame. Urban Total Fares were the highest throughout the entirety of the timeframe and Rural Total Fares were the lowest. However, for all three city types the total fares did not dramatically rise or drop throughout with each reaching its peak at the end of February and then oscillating below that peak until the end of April where the Suburban and Rural city types start to peak again.
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/99817571/160156294-d529157f-4d97-4330-a16a-4d01cab59bc7.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/99817571/160158329-696ff9b7-a207-4da7-8089-a3c49cd5d7da.png)
 
 ---
 ## Summary
