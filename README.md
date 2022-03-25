@@ -23,7 +23,7 @@ Pyber Summary DataFrame
 
   From the Total Fare by City Type Graph, which charts total fares by city type for each week from January to May of 2019, we can observe a similar pattern as seen in our Pyber Summary DataFrame. Urban Total Fares were the highest throughout the entirety of the timeframe and Rural Total Fares were the lowest. However, for all three city types the total fares did not dramatically rise or drop throughout with each reaching its peak at the end of February and then oscillating below that peak until the end of April where the Suburban and Rural city types start to peak again.
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/99817571/160158329-696ff9b7-a207-4da7-8089-a3c49cd5d7da.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/99817571/160159364-6c78e30b-bd49-4472-a61a-7516b2b909b1.png)
 
 ---
 ## Summary
